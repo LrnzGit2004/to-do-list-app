@@ -119,8 +119,9 @@ ul li span:hover {
     button {
         padding: 15px;
     }
+    
 }
-@media (max-width:350px) { 
+@media (max-width:440px) { 
     input {
         width: 175px;
         padding-right: 10px;
