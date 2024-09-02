@@ -126,4 +126,10 @@ ul li span:hover {
         width: 175px;
         padding-right: 10px;
     }
+    ul li span {
+        color: red;
+    }
+    ul li span:hover {
+        background: #ff9797;
+    }
 }
