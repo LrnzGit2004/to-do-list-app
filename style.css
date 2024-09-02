@@ -110,3 +110,13 @@ ul li span:hover {
     background: #9a9a9a;
     border-radius: 5px;
 }
+
+/* reponsive */
+@media (max-width:500px) {
+    .todo-app {
+        padding-right: 10px;
+    }
+    button {
+        padding: 15px;
+    }
+}
